@@ -1,0 +1,7 @@
+cellphonedb/
+LXS/      
+__pycache__/  
+results/
+contrib/
+figures/
+.ipynb_checkpoints/
